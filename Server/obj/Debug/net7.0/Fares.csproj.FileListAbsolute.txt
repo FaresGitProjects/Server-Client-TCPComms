@@ -1,0 +1,15 @@
+C:\Users\Fares\OneDrive\Projects\C#\bin\Debug\net7.0\Fares.exe
+C:\Users\Fares\OneDrive\Projects\C#\bin\Debug\net7.0\Fares.deps.json
+C:\Users\Fares\OneDrive\Projects\C#\bin\Debug\net7.0\Fares.runtimeconfig.json
+C:\Users\Fares\OneDrive\Projects\C#\bin\Debug\net7.0\Fares.dll
+C:\Users\Fares\OneDrive\Projects\C#\bin\Debug\net7.0\Fares.pdb
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.csproj.AssemblyReference.cache
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.AssemblyInfoInputs.cache
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.AssemblyInfo.cs
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.csproj.CoreCompileInputs.cache
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.dll
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\refint\Fares.dll
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.pdb
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\Fares.genruntimeconfig.cache
+C:\Users\Fares\OneDrive\Projects\C#\obj\Debug\net7.0\ref\Fares.dll
